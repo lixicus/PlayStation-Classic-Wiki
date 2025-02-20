@@ -1,4 +1,4 @@
 # PlayStation-Classic-Wiki
 Wiki for PlayStation Classic mods
 
-Work in progress 
+Wiki link here : https://github.com/lixicus/PlayStation-Classic-Wiki/wiki 
